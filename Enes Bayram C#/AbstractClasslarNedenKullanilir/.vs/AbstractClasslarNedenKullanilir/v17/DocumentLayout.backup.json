@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|d:\\enes bayram c#\\abstractclasslarnedenkullanilir\\abstractclasslarnedenkullanilir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|solutionrelative:abstractclasslarnedenkullanilir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|d:\\enes bayram c#\\abstractclasslarnedenkullanilir\\abstractclasslarnedenkullanilir\\subat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|solutionrelative:abstractclasslarnedenkullanilir\\subat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|d:\\enes bayram c#\\abstractclasslarnedenkullanilir\\abstractclasslarnedenkullanilir\\mart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|solutionrelative:abstractclasslarnedenkullanilir\\mart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|d:\\enes bayram c#\\abstractclasslarnedenkullanilir\\abstractclasslarnedenkullanilir\\ocak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|solutionrelative:abstractclasslarnedenkullanilir\\ocak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|d:\\enes bayram c#\\abstractclasslarnedenkullanilir\\abstractclasslarnedenkullanilir\\ay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFD34BB-1295-4693-8220-7EA87DC56B57}|AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir.csproj|solutionrelative:abstractclasslarnedenkullanilir\\ay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subat.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Subat.cs",
+              "RelativeDocumentMoniker": "AbstractClasslarNedenKullanilir\\Subat.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Subat.cs",
+              "RelativeToolTip": "AbstractClasslarNedenKullanilir\\Subat.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:46:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mart.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Mart.cs",
+              "RelativeDocumentMoniker": "AbstractClasslarNedenKullanilir\\Mart.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Mart.cs",
+              "RelativeToolTip": "AbstractClasslarNedenKullanilir\\Mart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:46:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ocak.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Ocak.cs",
+              "RelativeDocumentMoniker": "AbstractClasslarNedenKullanilir\\Ocak.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Ocak.cs",
+              "RelativeToolTip": "AbstractClasslarNedenKullanilir\\Ocak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:45:06.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ay.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Ay.cs",
+              "RelativeDocumentMoniker": "AbstractClasslarNedenKullanilir\\Ay.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Ay.cs",
+              "RelativeToolTip": "AbstractClasslarNedenKullanilir\\Ay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:42:56.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClasslarNedenKullanilir\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\AbstractClasslarNedenKullanilir\\AbstractClasslarNedenKullanilir\\Program.cs",
+              "RelativeToolTip": "AbstractClasslarNedenKullanilir\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:35:09.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

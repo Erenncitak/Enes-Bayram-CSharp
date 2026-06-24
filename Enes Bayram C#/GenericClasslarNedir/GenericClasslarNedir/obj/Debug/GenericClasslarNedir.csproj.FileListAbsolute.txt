@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\GenericClasslarNedir\GenericClasslarNedir\bin\Debug\GenericClasslarNedir.exe.config
+D:\Enes Bayram C#\GenericClasslarNedir\GenericClasslarNedir\bin\Debug\GenericClasslarNedir.exe
+D:\Enes Bayram C#\GenericClasslarNedir\GenericClasslarNedir\bin\Debug\GenericClasslarNedir.pdb
+D:\Enes Bayram C#\GenericClasslarNedir\GenericClasslarNedir\obj\Debug\GenericClasslarNedir.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\GenericClasslarNedir\GenericClasslarNedir\obj\Debug\GenericClasslarNedir.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\GenericClasslarNedir\GenericClasslarNedir\obj\Debug\GenericClasslarNedir.exe
+D:\Enes Bayram C#\GenericClasslarNedir\GenericClasslarNedir\obj\Debug\GenericClasslarNedir.pdb

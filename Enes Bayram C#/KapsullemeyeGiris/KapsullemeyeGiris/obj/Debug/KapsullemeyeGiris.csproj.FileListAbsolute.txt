@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\KapsullemeyeGiris\KapsullemeyeGiris\bin\Debug\KapsullemeyeGiris.exe.config
+D:\Enes Bayram C#\KapsullemeyeGiris\KapsullemeyeGiris\bin\Debug\KapsullemeyeGiris.exe
+D:\Enes Bayram C#\KapsullemeyeGiris\KapsullemeyeGiris\bin\Debug\KapsullemeyeGiris.pdb
+D:\Enes Bayram C#\KapsullemeyeGiris\KapsullemeyeGiris\obj\Debug\KapsullemeyeGiris.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\KapsullemeyeGiris\KapsullemeyeGiris\obj\Debug\KapsullemeyeGiris.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\KapsullemeyeGiris\KapsullemeyeGiris\obj\Debug\KapsullemeyeGiris.exe
+D:\Enes Bayram C#\KapsullemeyeGiris\KapsullemeyeGiris\obj\Debug\KapsullemeyeGiris.pdb

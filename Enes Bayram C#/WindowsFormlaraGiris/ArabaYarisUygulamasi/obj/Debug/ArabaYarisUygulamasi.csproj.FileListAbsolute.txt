@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.exe.config

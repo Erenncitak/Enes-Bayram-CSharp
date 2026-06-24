@@ -1,0 +1,12 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\bin\Debug\BirdenFazlaFormKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\bin\Debug\BirdenFazlaFormKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\bin\Debug\BirdenFazlaFormKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.anasayfa.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\BirdenFazlaFormKullanimi\obj\Debug\BirdenFazlaFormKullanimi.exe.config

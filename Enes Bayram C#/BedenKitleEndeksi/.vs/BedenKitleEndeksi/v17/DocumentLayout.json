@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\BedenKitleEndeksi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C508EE6-F29B-4E56-A552-6FE0A2271DE8}|BedenKitleEndeksi\\BedenKitleEndeksi.csproj|d:\\enes bayram c#\\bedenkitleendeksi\\bedenkitleendeksi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C508EE6-F29B-4E56-A552-6FE0A2271DE8}|BedenKitleEndeksi\\BedenKitleEndeksi.csproj|solutionrelative:bedenkitleendeksi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\BedenKitleEndeksi\\BedenKitleEndeksi\\Program.cs",
+              "RelativeDocumentMoniker": "BedenKitleEndeksi\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\BedenKitleEndeksi\\BedenKitleEndeksi\\Program.cs",
+              "RelativeToolTip": "BedenKitleEndeksi\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:34:54.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

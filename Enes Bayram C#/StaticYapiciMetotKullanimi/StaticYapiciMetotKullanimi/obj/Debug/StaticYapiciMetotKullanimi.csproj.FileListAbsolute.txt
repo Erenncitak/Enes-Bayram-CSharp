@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\bin\Debug\StaticYapiciMetotKullanimi.exe.config
+D:\Enes Bayram C#\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\bin\Debug\StaticYapiciMetotKullanimi.exe
+D:\Enes Bayram C#\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\bin\Debug\StaticYapiciMetotKullanimi.pdb
+D:\Enes Bayram C#\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.exe
+D:\Enes Bayram C#\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.pdb

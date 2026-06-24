@@ -1,0 +1,8 @@
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\bin\Debug\InterfaceKullanimi.exe.config
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\bin\Debug\InterfaceKullanimi.exe
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\bin\Debug\InterfaceKullanimi.pdb
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.exe
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.pdb
+D:\Enes Bayram C#\InterfaceKullanimi\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.exe.config

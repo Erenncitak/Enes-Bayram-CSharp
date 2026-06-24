@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\GenericKoleksiyonlarinKullanimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A8717A-673A-4C1D-9194-7DF278869E43}|GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi.csproj|d:\\enes bayram c#\\generickoleksiyonlarinkullanimi\\generickoleksiyonlarinkullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A8717A-673A-4C1D-9194-7DF278869E43}|GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi.csproj|solutionrelative:generickoleksiyonlarinkullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A8717A-673A-4C1D-9194-7DF278869E43}|GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi.csproj|d:\\enes bayram c#\\generickoleksiyonlarinkullanimi\\generickoleksiyonlarinkullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A8717A-673A-4C1D-9194-7DF278869E43}|GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi.csproj|solutionrelative:generickoleksiyonlarinkullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi\\Musteri.cs",
+              "RelativeDocumentMoniker": "GenericKoleksiyonlarinKullanimi\\Musteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi\\Musteri.cs",
+              "RelativeToolTip": "GenericKoleksiyonlarinKullanimi\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:28:45.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi\\Program.cs",
+              "RelativeDocumentMoniker": "GenericKoleksiyonlarinKullanimi\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericKoleksiyonlarinKullanimi\\GenericKoleksiyonlarinKullanimi\\Program.cs",
+              "RelativeToolTip": "GenericKoleksiyonlarinKullanimi\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:24:07.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\bin\Debug\ProgressBarKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\bin\Debug\ProgressBarKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\bin\Debug\ProgressBarKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\ProgressBarKullanimi\obj\Debug\ProgressBarKullanimi.exe.config

@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\StaticDegiskenKullanimi\StaticDegiskenKullanimi\bin\Debug\StaticDegiskenKullanimi.exe.config
+D:\Enes Bayram C#\StaticDegiskenKullanimi\StaticDegiskenKullanimi\bin\Debug\StaticDegiskenKullanimi.exe
+D:\Enes Bayram C#\StaticDegiskenKullanimi\StaticDegiskenKullanimi\bin\Debug\StaticDegiskenKullanimi.pdb
+D:\Enes Bayram C#\StaticDegiskenKullanimi\StaticDegiskenKullanimi\obj\Debug\StaticDegiskenKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\StaticDegiskenKullanimi\StaticDegiskenKullanimi\obj\Debug\StaticDegiskenKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\StaticDegiskenKullanimi\StaticDegiskenKullanimi\obj\Debug\StaticDegiskenKullanimi.exe
+D:\Enes Bayram C#\StaticDegiskenKullanimi\StaticDegiskenKullanimi\obj\Debug\StaticDegiskenKullanimi.pdb

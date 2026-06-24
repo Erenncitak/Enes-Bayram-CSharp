@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\bin\Debug\TimerNesnesiKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\bin\Debug\TimerNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\bin\Debug\TimerNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\TimerNesnesiKullanimi\obj\Debug\TimerNesnesiKullanimi.exe.config

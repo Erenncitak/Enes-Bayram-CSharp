@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\InheritanceGiris\InheritanceGiris\bin\Debug\InheritanceGiris.exe.config
+D:\Enes Bayram C#\InheritanceGiris\InheritanceGiris\bin\Debug\InheritanceGiris.exe
+D:\Enes Bayram C#\InheritanceGiris\InheritanceGiris\bin\Debug\InheritanceGiris.pdb
+D:\Enes Bayram C#\InheritanceGiris\InheritanceGiris\obj\Debug\InheritanceGiris.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\InheritanceGiris\InheritanceGiris\obj\Debug\InheritanceGiris.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\InheritanceGiris\InheritanceGiris\obj\Debug\InheritanceGiris.exe
+D:\Enes Bayram C#\InheritanceGiris\InheritanceGiris\obj\Debug\InheritanceGiris.pdb

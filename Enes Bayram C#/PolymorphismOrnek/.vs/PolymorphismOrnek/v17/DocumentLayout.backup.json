@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\PolymorphismOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|D:\\Enes Bayram C#\\PolymorphismOrnek\\polymorphismornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|solutionrelative:polymorphismornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|D:\\Enes Bayram C#\\PolymorphismOrnek\\polymorphismornek\\sekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|solutionrelative:polymorphismornek\\sekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|D:\\Enes Bayram C#\\PolymorphismOrnek\\polymorphismornek\\dikdortgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|solutionrelative:polymorphismornek\\dikdortgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|D:\\Enes Bayram C#\\PolymorphismOrnek\\polymorphismornek\\ucgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|solutionrelative:polymorphismornek\\ucgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|d:\\enes bayram c#\\polymorphismornek\\polymorphismornek\\kare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D4B581-D0DC-4A04-84A4-33EE272B15CC}|PolymorphismOrnek\\PolymorphismOrnek.csproj|solutionrelative:polymorphismornek\\kare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kare.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Kare.cs",
+              "RelativeDocumentMoniker": "PolymorphismOrnek\\Kare.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Kare.cs",
+              "RelativeToolTip": "PolymorphismOrnek\\Kare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:52:19.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ucgen.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Ucgen.cs",
+              "RelativeDocumentMoniker": "PolymorphismOrnek\\Ucgen.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Ucgen.cs",
+              "RelativeToolTip": "PolymorphismOrnek\\Ucgen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:48:17.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dikdortgen.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Dikdortgen.cs",
+              "RelativeDocumentMoniker": "PolymorphismOrnek\\Dikdortgen.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Dikdortgen.cs",
+              "RelativeToolTip": "PolymorphismOrnek\\Dikdortgen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:43:01.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sekil.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Sekil.cs",
+              "RelativeDocumentMoniker": "PolymorphismOrnek\\Sekil.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Sekil.cs",
+              "RelativeToolTip": "PolymorphismOrnek\\Sekil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:40:47.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismOrnek\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphismOrnek\\PolymorphismOrnek\\Program.cs",
+              "RelativeToolTip": "PolymorphismOrnek\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:40:25.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

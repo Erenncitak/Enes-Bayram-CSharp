@@ -1,0 +1,12 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\bin\Debug\MenuStripKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\bin\Debug\MenuStripKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\bin\Debug\MenuStripKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\MenuStripKullanimi\obj\Debug\MenuStripKullanimi.StockForm.resources

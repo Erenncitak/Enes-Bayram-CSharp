@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\AbstractClasslarYapisi\AbstractClasslarYapisi\bin\Debug\AbstractClasslarYapisi.exe.config
+D:\Enes Bayram C#\AbstractClasslarYapisi\AbstractClasslarYapisi\bin\Debug\AbstractClasslarYapisi.exe
+D:\Enes Bayram C#\AbstractClasslarYapisi\AbstractClasslarYapisi\bin\Debug\AbstractClasslarYapisi.pdb
+D:\Enes Bayram C#\AbstractClasslarYapisi\AbstractClasslarYapisi\obj\Debug\AbstractClasslarYapisi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\AbstractClasslarYapisi\AbstractClasslarYapisi\obj\Debug\AbstractClasslarYapisi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\AbstractClasslarYapisi\AbstractClasslarYapisi\obj\Debug\AbstractClasslarYapisi.exe
+D:\Enes Bayram C#\AbstractClasslarYapisi\AbstractClasslarYapisi\obj\Debug\AbstractClasslarYapisi.pdb

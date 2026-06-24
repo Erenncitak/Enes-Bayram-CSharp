@@ -1,0 +1,10 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\bin\Debug\ComboboxNesnesi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\bin\Debug\ComboboxNesnesi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\bin\Debug\ComboboxNesnesi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\obj\Debug\ComboboxNesnesi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\obj\Debug\ComboboxNesnesi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\obj\Debug\ComboboxNesnesi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\obj\Debug\ComboboxNesnesi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\obj\Debug\ComboboxNesnesi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\obj\Debug\ComboboxNesnesi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ComboboxNesnesi\obj\Debug\ComboboxNesnesi.pdb

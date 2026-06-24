@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\PolymorphsiGiris\PolymorphsiGiris\bin\Debug\PolymorphsiGiris.exe.config
+D:\Enes Bayram C#\PolymorphsiGiris\PolymorphsiGiris\bin\Debug\PolymorphsiGiris.exe
+D:\Enes Bayram C#\PolymorphsiGiris\PolymorphsiGiris\bin\Debug\PolymorphsiGiris.pdb
+D:\Enes Bayram C#\PolymorphsiGiris\PolymorphsiGiris\obj\Debug\PolymorphsiGiris.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\PolymorphsiGiris\PolymorphsiGiris\obj\Debug\PolymorphsiGiris.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\PolymorphsiGiris\PolymorphsiGiris\obj\Debug\PolymorphsiGiris.exe
+D:\Enes Bayram C#\PolymorphsiGiris\PolymorphsiGiris\obj\Debug\PolymorphsiGiris.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\WhileDongusuPratik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F574A1-D029-4E4D-B86E-87AD5A28D076}|WhileDongusuPratik\\WhileDongusuPratik.csproj|d:\\enes bayram c#\\whiledongusupratik\\whiledongusupratik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F574A1-D029-4E4D-B86E-87AD5A28D076}|WhileDongusuPratik\\WhileDongusuPratik.csproj|solutionrelative:whiledongusupratik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\WhileDongusuPratik\\WhileDongusuPratik\\Program.cs",
+              "RelativeDocumentMoniker": "WhileDongusuPratik\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\WhileDongusuPratik\\WhileDongusuPratik\\Program.cs",
+              "RelativeToolTip": "WhileDongusuPratik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:46:21.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

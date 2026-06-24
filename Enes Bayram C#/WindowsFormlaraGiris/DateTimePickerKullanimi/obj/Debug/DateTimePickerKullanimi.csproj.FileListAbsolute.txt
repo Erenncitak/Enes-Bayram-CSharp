@@ -1,0 +1,10 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\bin\Debug\DateTimePickerKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\bin\Debug\DateTimePickerKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\bin\Debug\DateTimePickerKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\obj\Debug\DateTimePickerKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\obj\Debug\DateTimePickerKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\obj\Debug\DateTimePickerKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\obj\Debug\DateTimePickerKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\obj\Debug\DateTimePickerKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\obj\Debug\DateTimePickerKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\DateTimePickerKullanimi\obj\Debug\DateTimePickerKullanimi.pdb

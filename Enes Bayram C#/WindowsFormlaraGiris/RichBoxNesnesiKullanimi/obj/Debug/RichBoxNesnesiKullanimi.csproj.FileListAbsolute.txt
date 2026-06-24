@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\bin\Debug\RichBoxNesnesiKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\bin\Debug\RichBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\bin\Debug\RichBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\RichBoxNesnesiKullanimi\obj\Debug\RichBoxNesnesiKullanimi.exe.config

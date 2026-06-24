@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\PublicvePrivateErisimBelirleyicileri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E70775D-804C-490D-A5EB-076D6068D469}|PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri.csproj|d:\\enes bayram c#\\publicveprivateerisimbelirleyicileri\\publicveprivateerisimbelirleyicileri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E70775D-804C-490D-A5EB-076D6068D469}|PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri.csproj|solutionrelative:publicveprivateerisimbelirleyicileri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E70775D-804C-490D-A5EB-076D6068D469}|PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri.csproj|d:\\enes bayram c#\\publicveprivateerisimbelirleyicileri\\publicveprivateerisimbelirleyicileri\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E70775D-804C-490D-A5EB-076D6068D469}|PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri.csproj|solutionrelative:publicveprivateerisimbelirleyicileri\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri\\Musteri.cs",
+              "RelativeDocumentMoniker": "PublicvePrivateErisimBelirleyicileri\\Musteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri\\Musteri.cs",
+              "RelativeToolTip": "PublicvePrivateErisimBelirleyicileri\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:31:42.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri\\Program.cs",
+              "RelativeDocumentMoniker": "PublicvePrivateErisimBelirleyicileri\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PublicvePrivateErisimBelirleyicileri\\PublicvePrivateErisimBelirleyicileri\\Program.cs",
+              "RelativeToolTip": "PublicvePrivateErisimBelirleyicileri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:31:19.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

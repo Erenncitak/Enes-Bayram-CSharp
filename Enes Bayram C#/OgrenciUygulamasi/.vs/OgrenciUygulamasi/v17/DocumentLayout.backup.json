@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\OgrenciUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AC1EB1-1252-4369-B452-4FA54225659F}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|D:\\Enes Bayram C#\\OgrenciUygulamasi\\ogrenciuygulamasi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AC1EB1-1252-4369-B452-4FA54225659F}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|solutionrelative:ogrenciuygulamasi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AC1EB1-1252-4369-B452-4FA54225659F}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|d:\\enes bayram c#\\ogrenciuygulamasi\\ogrenciuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AC1EB1-1252-4369-B452-4FA54225659F}|OgrenciUygulamasi\\OgrenciUygulamasi.csproj|solutionrelative:ogrenciuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\OgrenciUygulamasi\\OgrenciUygulamasi\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "OgrenciUygulamasi\\Ogrenci.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\OgrenciUygulamasi\\OgrenciUygulamasi\\Ogrenci.cs",
+              "RelativeToolTip": "OgrenciUygulamasi\\Ogrenci.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:51:45.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\OgrenciUygulamasi\\OgrenciUygulamasi\\Program.cs",
+              "RelativeDocumentMoniker": "OgrenciUygulamasi\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\OgrenciUygulamasi\\OgrenciUygulamasi\\Program.cs",
+              "RelativeToolTip": "OgrenciUygulamasi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:50:51.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

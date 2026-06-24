@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\bin\Debug\TabControlKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\bin\Debug\TabControlKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\bin\Debug\TabControlKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\TabControlKullanimi\obj\Debug\TabControlKullanimi.exe.config

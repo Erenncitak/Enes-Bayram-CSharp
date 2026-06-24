@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.exe.config
+D:\Enes Bayram C#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.exe
+D:\Enes Bayram C#\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.pdb
+D:\Enes Bayram C#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.exe
+D:\Enes Bayram C#\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.pdb

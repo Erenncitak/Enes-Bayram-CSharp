@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringVeriTipi", "StringVeriTipi\StringVeriTipi.csproj", "{45E2EAFD-3017-428A-9428-6FBFF362C480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E2EAFD-3017-428A-9428-6FBFF362C480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E2EAFD-3017-428A-9428-6FBFF362C480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E2EAFD-3017-428A-9428-6FBFF362C480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E2EAFD-3017-428A-9428-6FBFF362C480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49FB1A13-6B22-4468-9598-0E12B7F518F6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\bin\Debug\PictureBoxNesnesiKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\bin\Debug\PictureBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\bin\Debug\PictureBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\PictureBoxNesnesiKullanimi\obj\Debug\PictureBoxNesnesiKullanimi.exe.config

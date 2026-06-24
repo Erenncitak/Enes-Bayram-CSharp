@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\ForDongusuOrnek\ForDongusuOrnek\bin\Debug\ForDongusuOrnek.exe.config
+D:\Enes Bayram C#\ForDongusuOrnek\ForDongusuOrnek\bin\Debug\ForDongusuOrnek.exe
+D:\Enes Bayram C#\ForDongusuOrnek\ForDongusuOrnek\bin\Debug\ForDongusuOrnek.pdb
+D:\Enes Bayram C#\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.exe
+D:\Enes Bayram C#\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.pdb

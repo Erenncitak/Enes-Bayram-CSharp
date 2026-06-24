@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\InheritanceUygulama\InheritanceUygulama\bin\Debug\InheritanceUygulama.exe.config
+D:\Enes Bayram C#\InheritanceUygulama\InheritanceUygulama\bin\Debug\InheritanceUygulama.exe
+D:\Enes Bayram C#\InheritanceUygulama\InheritanceUygulama\bin\Debug\InheritanceUygulama.pdb
+D:\Enes Bayram C#\InheritanceUygulama\InheritanceUygulama\obj\Debug\InheritanceUygulama.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\InheritanceUygulama\InheritanceUygulama\obj\Debug\InheritanceUygulama.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\InheritanceUygulama\InheritanceUygulama\obj\Debug\InheritanceUygulama.exe
+D:\Enes Bayram C#\InheritanceUygulama\InheritanceUygulama\obj\Debug\InheritanceUygulama.pdb

@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\CarpimTablosuOrnegi\CarpimTablosuOrnegi\bin\Debug\CarpimTablosuOrnegi.exe.config
+D:\Enes Bayram C#\CarpimTablosuOrnegi\CarpimTablosuOrnegi\bin\Debug\CarpimTablosuOrnegi.exe
+D:\Enes Bayram C#\CarpimTablosuOrnegi\CarpimTablosuOrnegi\bin\Debug\CarpimTablosuOrnegi.pdb
+D:\Enes Bayram C#\CarpimTablosuOrnegi\CarpimTablosuOrnegi\obj\Debug\CarpimTablosuOrnegi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\CarpimTablosuOrnegi\CarpimTablosuOrnegi\obj\Debug\CarpimTablosuOrnegi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\CarpimTablosuOrnegi\CarpimTablosuOrnegi\obj\Debug\CarpimTablosuOrnegi.exe
+D:\Enes Bayram C#\CarpimTablosuOrnegi\CarpimTablosuOrnegi\obj\Debug\CarpimTablosuOrnegi.pdb

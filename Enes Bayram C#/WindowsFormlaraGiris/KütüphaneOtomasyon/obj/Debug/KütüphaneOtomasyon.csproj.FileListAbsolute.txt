@@ -1,0 +1,13 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.AdminSayfasi.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.UyeSayfasi.resources

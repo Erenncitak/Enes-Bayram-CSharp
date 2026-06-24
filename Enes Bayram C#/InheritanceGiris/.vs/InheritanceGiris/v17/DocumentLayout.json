@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\InheritanceGiris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9A643F-4FEE-4148-9D1D-BA722967E039}|InheritanceGiris\\InheritanceGiris.csproj|D:\\Enes Bayram C#\\InheritanceGiris\\inheritancegiris\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9A643F-4FEE-4148-9D1D-BA722967E039}|InheritanceGiris\\InheritanceGiris.csproj|solutionrelative:inheritancegiris\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9A643F-4FEE-4148-9D1D-BA722967E039}|InheritanceGiris\\InheritanceGiris.csproj|d:\\enes bayram c#\\inheritancegiris\\inheritancegiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9A643F-4FEE-4148-9D1D-BA722967E039}|InheritanceGiris\\InheritanceGiris.csproj|solutionrelative:inheritancegiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9A643F-4FEE-4148-9D1D-BA722967E039}|InheritanceGiris\\InheritanceGiris.csproj|D:\\Enes Bayram C#\\InheritanceGiris\\inheritancegiris\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9A643F-4FEE-4148-9D1D-BA722967E039}|InheritanceGiris\\InheritanceGiris.csproj|solutionrelative:inheritancegiris\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kedi.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\InheritanceGiris\\InheritanceGiris\\Kedi.cs",
+              "RelativeDocumentMoniker": "InheritanceGiris\\Kedi.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\InheritanceGiris\\InheritanceGiris\\Kedi.cs",
+              "RelativeToolTip": "InheritanceGiris\\Kedi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:04:16.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hayvan.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\InheritanceGiris\\InheritanceGiris\\Hayvan.cs",
+              "RelativeDocumentMoniker": "InheritanceGiris\\Hayvan.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\InheritanceGiris\\InheritanceGiris\\Hayvan.cs",
+              "RelativeToolTip": "InheritanceGiris\\Hayvan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:00:28.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\InheritanceGiris\\InheritanceGiris\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceGiris\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\InheritanceGiris\\InheritanceGiris\\Program.cs",
+              "RelativeToolTip": "InheritanceGiris\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:59:37.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

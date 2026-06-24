@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\StaticClassKullanimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826F91B5-8EE6-49B6-8FC8-7A73A822E5F1}|StaticClassKullanimi\\StaticClassKullanimi.csproj|d:\\enes bayram c#\\staticclasskullanimi\\staticclasskullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826F91B5-8EE6-49B6-8FC8-7A73A822E5F1}|StaticClassKullanimi\\StaticClassKullanimi.csproj|solutionrelative:staticclasskullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826F91B5-8EE6-49B6-8FC8-7A73A822E5F1}|StaticClassKullanimi\\StaticClassKullanimi.csproj|d:\\enes bayram c#\\staticclasskullanimi\\staticclasskullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826F91B5-8EE6-49B6-8FC8-7A73A822E5F1}|StaticClassKullanimi\\StaticClassKullanimi.csproj|solutionrelative:staticclasskullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\StaticClassKullanimi\\StaticClassKullanimi\\Musteri.cs",
+              "RelativeDocumentMoniker": "StaticClassKullanimi\\Musteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\StaticClassKullanimi\\StaticClassKullanimi\\Musteri.cs",
+              "RelativeToolTip": "StaticClassKullanimi\\Musteri.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:25:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\StaticClassKullanimi\\StaticClassKullanimi\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClassKullanimi\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\StaticClassKullanimi\\StaticClassKullanimi\\Program.cs",
+              "RelativeToolTip": "StaticClassKullanimi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:24:20.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

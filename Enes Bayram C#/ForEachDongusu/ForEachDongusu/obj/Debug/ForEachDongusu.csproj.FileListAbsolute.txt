@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\ForEachDongusu\ForEachDongusu\bin\Debug\ForEachDongusu.exe.config
+D:\Enes Bayram C#\ForEachDongusu\ForEachDongusu\bin\Debug\ForEachDongusu.exe
+D:\Enes Bayram C#\ForEachDongusu\ForEachDongusu\bin\Debug\ForEachDongusu.pdb
+D:\Enes Bayram C#\ForEachDongusu\ForEachDongusu\obj\Debug\ForEachDongusu.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\ForEachDongusu\ForEachDongusu\obj\Debug\ForEachDongusu.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\ForEachDongusu\ForEachDongusu\obj\Debug\ForEachDongusu.exe
+D:\Enes Bayram C#\ForEachDongusu\ForEachDongusu\obj\Debug\ForEachDongusu.pdb

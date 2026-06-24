@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\bin\Debug\ListBoxNesnesiKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\bin\Debug\ListBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\bin\Debug\ListBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\ListBoxNesnesiKullanimi\obj\Debug\ListBoxNesnesiKullanimi.exe.config

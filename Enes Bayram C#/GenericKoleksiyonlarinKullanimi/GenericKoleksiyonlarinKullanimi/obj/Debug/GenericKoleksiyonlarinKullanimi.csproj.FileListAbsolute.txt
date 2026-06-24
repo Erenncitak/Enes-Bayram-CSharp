@@ -1,0 +1,8 @@
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\obj\Debug\GenericKoleksiyonlarinKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\obj\Debug\GenericKoleksiyonlarinKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\bin\Debug\GenericKoleksiyonlarinKullanimi.exe.config
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\bin\Debug\GenericKoleksiyonlarinKullanimi.exe
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\bin\Debug\GenericKoleksiyonlarinKullanimi.pdb
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\obj\Debug\GenericKoleksiyonlarinKullanimi.exe
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\obj\Debug\GenericKoleksiyonlarinKullanimi.pdb
+D:\Enes Bayram C#\GenericKoleksiyonlarinKullanimi\GenericKoleksiyonlarinKullanimi\obj\Debug\GenericKoleksiyonlarinKullanimi.exe.config

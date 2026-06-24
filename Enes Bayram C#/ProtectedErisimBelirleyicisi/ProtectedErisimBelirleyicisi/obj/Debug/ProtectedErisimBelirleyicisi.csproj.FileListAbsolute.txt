@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi\bin\Debug\ProtectedErisimBelirleyicisi.exe.config
+D:\Enes Bayram C#\ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi\bin\Debug\ProtectedErisimBelirleyicisi.exe
+D:\Enes Bayram C#\ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi\bin\Debug\ProtectedErisimBelirleyicisi.pdb
+D:\Enes Bayram C#\ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi\obj\Debug\ProtectedErisimBelirleyicisi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi\obj\Debug\ProtectedErisimBelirleyicisi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi\obj\Debug\ProtectedErisimBelirleyicisi.exe
+D:\Enes Bayram C#\ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi\obj\Debug\ProtectedErisimBelirleyicisi.pdb

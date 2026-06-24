@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\Kapsulleme_Odev\Kapsulleme_Odev\bin\Debug\Kapsulleme_Odev.exe.config
+D:\Enes Bayram C#\Kapsulleme_Odev\Kapsulleme_Odev\bin\Debug\Kapsulleme_Odev.exe
+D:\Enes Bayram C#\Kapsulleme_Odev\Kapsulleme_Odev\bin\Debug\Kapsulleme_Odev.pdb
+D:\Enes Bayram C#\Kapsulleme_Odev\Kapsulleme_Odev\obj\Debug\Kapsulleme_Odev.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\Kapsulleme_Odev\Kapsulleme_Odev\obj\Debug\Kapsulleme_Odev.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\Kapsulleme_Odev\Kapsulleme_Odev\obj\Debug\Kapsulleme_Odev.exe
+D:\Enes Bayram C#\Kapsulleme_Odev\Kapsulleme_Odev\obj\Debug\Kapsulleme_Odev.pdb

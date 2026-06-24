@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\PolymorphsiGiris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|d:\\enes bayram c#\\polymorphsigiris\\polymorphsigiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|solutionrelative:polymorphsigiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|d:\\enes bayram c#\\polymorphsigiris\\polymorphsigiris\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|solutionrelative:polymorphsigiris\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|d:\\enes bayram c#\\polymorphsigiris\\polymorphsigiris\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|solutionrelative:polymorphsigiris\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|d:\\enes bayram c#\\polymorphsigiris\\polymorphsigiris\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AB64F0-819A-46C8-944B-DE262BFEEDEF}|PolymorphsiGiris\\PolymorphsiGiris.csproj|solutionrelative:polymorphsigiris\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kopek.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Kopek.cs",
+              "RelativeDocumentMoniker": "PolymorphsiGiris\\Kopek.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Kopek.cs",
+              "RelativeToolTip": "PolymorphsiGiris\\Kopek.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:29:09.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kedi.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Kedi.cs",
+              "RelativeDocumentMoniker": "PolymorphsiGiris\\Kedi.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Kedi.cs",
+              "RelativeToolTip": "PolymorphsiGiris\\Kedi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:26:08.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hayvan.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Hayvan.cs",
+              "RelativeDocumentMoniker": "PolymorphsiGiris\\Hayvan.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Hayvan.cs",
+              "RelativeToolTip": "PolymorphsiGiris\\Hayvan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:22:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphsiGiris\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PolymorphsiGiris\\PolymorphsiGiris\\Program.cs",
+              "RelativeToolTip": "PolymorphsiGiris\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:21:52.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\ForDongusuPratik\ForDongusuPratik\bin\Debug\ForDongusuPratik.exe.config
+D:\Enes Bayram C#\ForDongusuPratik\ForDongusuPratik\bin\Debug\ForDongusuPratik.exe
+D:\Enes Bayram C#\ForDongusuPratik\ForDongusuPratik\bin\Debug\ForDongusuPratik.pdb
+D:\Enes Bayram C#\ForDongusuPratik\ForDongusuPratik\obj\Debug\ForDongusuPratik.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\ForDongusuPratik\ForDongusuPratik\obj\Debug\ForDongusuPratik.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\ForDongusuPratik\ForDongusuPratik\obj\Debug\ForDongusuPratik.exe
+D:\Enes Bayram C#\ForDongusuPratik\ForDongusuPratik\obj\Debug\ForDongusuPratik.pdb

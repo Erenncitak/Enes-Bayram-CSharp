@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\IcIceForDongusuKullanimi\IcIceForDongusuKullanimi\bin\Debug\IcIceForDongusuKullanimi.exe.config
+D:\Enes Bayram C#\IcIceForDongusuKullanimi\IcIceForDongusuKullanimi\bin\Debug\IcIceForDongusuKullanimi.exe
+D:\Enes Bayram C#\IcIceForDongusuKullanimi\IcIceForDongusuKullanimi\bin\Debug\IcIceForDongusuKullanimi.pdb
+D:\Enes Bayram C#\IcIceForDongusuKullanimi\IcIceForDongusuKullanimi\obj\Debug\IcIceForDongusuKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\IcIceForDongusuKullanimi\IcIceForDongusuKullanimi\obj\Debug\IcIceForDongusuKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\IcIceForDongusuKullanimi\IcIceForDongusuKullanimi\obj\Debug\IcIceForDongusuKullanimi.exe
+D:\Enes Bayram C#\IcIceForDongusuKullanimi\IcIceForDongusuKullanimi\obj\Debug\IcIceForDongusuKullanimi.pdb

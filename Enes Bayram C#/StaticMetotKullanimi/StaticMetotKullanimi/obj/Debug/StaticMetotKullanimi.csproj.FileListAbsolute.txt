@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\StaticMetotKullanimi.exe.config
+D:\Enes Bayram C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\StaticMetotKullanimi.exe
+D:\Enes Bayram C#\StaticMetotKullanimi\StaticMetotKullanimi\bin\Debug\StaticMetotKullanimi.pdb
+D:\Enes Bayram C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\StaticMetotKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\StaticMetotKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\StaticMetotKullanimi.exe
+D:\Enes Bayram C#\StaticMetotKullanimi\StaticMetotKullanimi\obj\Debug\StaticMetotKullanimi.pdb

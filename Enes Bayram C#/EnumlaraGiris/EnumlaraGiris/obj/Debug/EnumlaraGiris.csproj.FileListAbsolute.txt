@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\EnumlaraGiris\EnumlaraGiris\bin\Debug\EnumlaraGiris.exe.config
+D:\Enes Bayram C#\EnumlaraGiris\EnumlaraGiris\bin\Debug\EnumlaraGiris.exe
+D:\Enes Bayram C#\EnumlaraGiris\EnumlaraGiris\bin\Debug\EnumlaraGiris.pdb
+D:\Enes Bayram C#\EnumlaraGiris\EnumlaraGiris\obj\Debug\EnumlaraGiris.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\EnumlaraGiris\EnumlaraGiris\obj\Debug\EnumlaraGiris.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\EnumlaraGiris\EnumlaraGiris\obj\Debug\EnumlaraGiris.exe
+D:\Enes Bayram C#\EnumlaraGiris\EnumlaraGiris\obj\Debug\EnumlaraGiris.pdb

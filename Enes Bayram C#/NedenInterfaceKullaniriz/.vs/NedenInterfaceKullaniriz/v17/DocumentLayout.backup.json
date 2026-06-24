@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|d:\\enes bayram c#\\nedeninterfacekullaniriz\\nedeninterfacekullaniriz\\imusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|solutionrelative:nedeninterfacekullaniriz\\imusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|d:\\enes bayram c#\\nedeninterfacekullaniriz\\nedeninterfacekullaniriz\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|solutionrelative:nedeninterfacekullaniriz\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|d:\\enes bayram c#\\nedeninterfacekullaniriz\\nedeninterfacekullaniriz\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|solutionrelative:nedeninterfacekullaniriz\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|d:\\enes bayram c#\\nedeninterfacekullaniriz\\nedeninterfacekullaniriz\\oracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|solutionrelative:nedeninterfacekullaniriz\\oracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|d:\\enes bayram c#\\nedeninterfacekullaniriz\\nedeninterfacekullaniriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|solutionrelative:nedeninterfacekullaniriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|d:\\enes bayram c#\\nedeninterfacekullaniriz\\nedeninterfacekullaniriz\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0989CC-71AD-4069-9070-12624D18F6B9}|NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz.csproj|solutionrelative:nedeninterfacekullaniriz\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\MusteriController.cs",
+              "RelativeDocumentMoniker": "NedenInterfaceKullaniriz\\MusteriController.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\MusteriController.cs",
+              "RelativeToolTip": "NedenInterfaceKullaniriz\\MusteriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:55:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oracle.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\Oracle.cs",
+              "RelativeDocumentMoniker": "NedenInterfaceKullaniriz\\Oracle.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\Oracle.cs",
+              "RelativeToolTip": "NedenInterfaceKullaniriz\\Oracle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:08:02.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySql.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\MySql.cs",
+              "RelativeDocumentMoniker": "NedenInterfaceKullaniriz\\MySql.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\MySql.cs",
+              "RelativeToolTip": "NedenInterfaceKullaniriz\\MySql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:53:30.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlServer.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\SqlServer.cs",
+              "RelativeDocumentMoniker": "NedenInterfaceKullaniriz\\SqlServer.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\SqlServer.cs",
+              "RelativeToolTip": "NedenInterfaceKullaniriz\\SqlServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:52:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMusteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\IMusteri.cs",
+              "RelativeDocumentMoniker": "NedenInterfaceKullaniriz\\IMusteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\IMusteri.cs",
+              "RelativeToolTip": "NedenInterfaceKullaniriz\\IMusteri.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:51:22.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\Program.cs",
+              "RelativeDocumentMoniker": "NedenInterfaceKullaniriz\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\NedenInterfaceKullaniriz\\NedenInterfaceKullaniriz\\Program.cs",
+              "RelativeToolTip": "NedenInterfaceKullaniriz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:49:11.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

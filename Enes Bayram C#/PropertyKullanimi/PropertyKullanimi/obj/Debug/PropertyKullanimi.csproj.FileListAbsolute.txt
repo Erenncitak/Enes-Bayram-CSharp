@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\PropertyKullanimi\PropertyKullanimi\bin\Debug\PropertyKullanimi.exe.config
+D:\Enes Bayram C#\PropertyKullanimi\PropertyKullanimi\bin\Debug\PropertyKullanimi.exe
+D:\Enes Bayram C#\PropertyKullanimi\PropertyKullanimi\bin\Debug\PropertyKullanimi.pdb
+D:\Enes Bayram C#\PropertyKullanimi\PropertyKullanimi\obj\Debug\PropertyKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\PropertyKullanimi\PropertyKullanimi\obj\Debug\PropertyKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\PropertyKullanimi\PropertyKullanimi\obj\Debug\PropertyKullanimi.exe
+D:\Enes Bayram C#\PropertyKullanimi\PropertyKullanimi\obj\Debug\PropertyKullanimi.pdb

@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\bin\Debug\CheckboxNesnesiKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\bin\Debug\CheckboxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\bin\Debug\CheckboxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\CheckboxNesnesiKullanimi\obj\Debug\CheckboxNesnesiKullanimi.exe.config

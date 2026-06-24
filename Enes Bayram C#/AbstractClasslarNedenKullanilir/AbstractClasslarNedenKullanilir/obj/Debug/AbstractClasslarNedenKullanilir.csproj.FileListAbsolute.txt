@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\AbstractClasslarNedenKullanilir\AbstractClasslarNedenKullanilir\bin\Debug\AbstractClasslarNedenKullanilir.exe.config
+D:\Enes Bayram C#\AbstractClasslarNedenKullanilir\AbstractClasslarNedenKullanilir\bin\Debug\AbstractClasslarNedenKullanilir.exe
+D:\Enes Bayram C#\AbstractClasslarNedenKullanilir\AbstractClasslarNedenKullanilir\bin\Debug\AbstractClasslarNedenKullanilir.pdb
+D:\Enes Bayram C#\AbstractClasslarNedenKullanilir\AbstractClasslarNedenKullanilir\obj\Debug\AbstractClasslarNedenKullanilir.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\AbstractClasslarNedenKullanilir\AbstractClasslarNedenKullanilir\obj\Debug\AbstractClasslarNedenKullanilir.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\AbstractClasslarNedenKullanilir\AbstractClasslarNedenKullanilir\obj\Debug\AbstractClasslarNedenKullanilir.exe
+D:\Enes Bayram C#\AbstractClasslarNedenKullanilir\AbstractClasslarNedenKullanilir\obj\Debug\AbstractClasslarNedenKullanilir.pdb

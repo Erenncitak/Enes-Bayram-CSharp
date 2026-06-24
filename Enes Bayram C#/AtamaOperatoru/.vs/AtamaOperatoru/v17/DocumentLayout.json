@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\AtamaOperatoru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD651D-9905-4F99-96CA-425434150163}|AtamaOperatoru\\AtamaOperatoru.csproj|d:\\enes bayram c#\\atamaoperatoru\\atamaoperatoru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD651D-9905-4F99-96CA-425434150163}|AtamaOperatoru\\AtamaOperatoru.csproj|solutionrelative:atamaoperatoru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\AtamaOperatoru\\AtamaOperatoru\\Program.cs",
+              "RelativeDocumentMoniker": "AtamaOperatoru\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\AtamaOperatoru\\AtamaOperatoru\\Program.cs",
+              "RelativeToolTip": "AtamaOperatoru\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:05:41.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\bin\Debug\EnumlarIleOrnekUygulama.exe.config
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\bin\Debug\EnumlarIleOrnekUygulama.exe
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\bin\Debug\EnumlarIleOrnekUygulama.pdb
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\obj\Debug\EnumlarIleOrnekUygulama.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\obj\Debug\EnumlarIleOrnekUygulama.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\obj\Debug\EnumlarIleOrnekUygulama.exe
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\obj\Debug\EnumlarIleOrnekUygulama.pdb
+D:\Enes Bayram C#\EnumlarIleOrnekUygulama\EnumlarIleOrnekUygulama\obj\Debug\EnumlarIleOrnekUygulama.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedErisimBelirleyicisi", "ProtectedErisimBelirleyicisi\ProtectedErisimBelirleyicisi.csproj", "{D54F0384-1F3A-4337-BA19-25F66F28D7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54F0384-1F3A-4337-BA19-25F66F28D7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54F0384-1F3A-4337-BA19-25F66F28D7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54F0384-1F3A-4337-BA19-25F66F28D7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54F0384-1F3A-4337-BA19-25F66F28D7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A4CB8F2-3D15-449E-8C33-90FA68C14526}
+	EndGlobalSection
+EndGlobal

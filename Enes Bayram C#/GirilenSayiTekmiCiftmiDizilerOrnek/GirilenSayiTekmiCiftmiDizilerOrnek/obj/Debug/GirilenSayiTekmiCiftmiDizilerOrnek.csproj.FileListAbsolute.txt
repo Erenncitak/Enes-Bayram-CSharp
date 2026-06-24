@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\GirilenSayiTekmiCiftmiDizilerOrnek\GirilenSayiTekmiCiftmiDizilerOrnek\bin\Debug\GirilenSayiTekmiCiftmiDizilerOrnek.exe.config
+D:\Enes Bayram C#\GirilenSayiTekmiCiftmiDizilerOrnek\GirilenSayiTekmiCiftmiDizilerOrnek\bin\Debug\GirilenSayiTekmiCiftmiDizilerOrnek.exe
+D:\Enes Bayram C#\GirilenSayiTekmiCiftmiDizilerOrnek\GirilenSayiTekmiCiftmiDizilerOrnek\bin\Debug\GirilenSayiTekmiCiftmiDizilerOrnek.pdb
+D:\Enes Bayram C#\GirilenSayiTekmiCiftmiDizilerOrnek\GirilenSayiTekmiCiftmiDizilerOrnek\obj\Debug\GirilenSayiTekmiCiftmiDizilerOrnek.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\GirilenSayiTekmiCiftmiDizilerOrnek\GirilenSayiTekmiCiftmiDizilerOrnek\obj\Debug\GirilenSayiTekmiCiftmiDizilerOrnek.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\GirilenSayiTekmiCiftmiDizilerOrnek\GirilenSayiTekmiCiftmiDizilerOrnek\obj\Debug\GirilenSayiTekmiCiftmiDizilerOrnek.exe
+D:\Enes Bayram C#\GirilenSayiTekmiCiftmiDizilerOrnek\GirilenSayiTekmiCiftmiDizilerOrnek\obj\Debug\GirilenSayiTekmiCiftmiDizilerOrnek.pdb

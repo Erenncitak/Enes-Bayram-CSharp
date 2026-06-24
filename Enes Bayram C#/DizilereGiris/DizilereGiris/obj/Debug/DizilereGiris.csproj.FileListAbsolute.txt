@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.exe.config
+D:\Enes Bayram C#\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.exe
+D:\Enes Bayram C#\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.pdb
+D:\Enes Bayram C#\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.exe
+D:\Enes Bayram C#\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.pdb

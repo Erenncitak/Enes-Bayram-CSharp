@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|d:\\enes bayram c#\\inheritancegirisornek\\inheritancegirisornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|solutionrelative:inheritancegirisornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|d:\\enes bayram c#\\inheritancegirisornek\\inheritancegirisornek\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|solutionrelative:inheritancegirisornek\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|d:\\enes bayram c#\\inheritancegirisornek\\inheritancegirisornek\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|solutionrelative:inheritancegirisornek\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|d:\\enes bayram c#\\inheritancegirisornek\\inheritancegirisornek\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E620F76-81B5-4EAD-AA94-955435822429}|InheritanceGirisOrnek\\InheritanceGirisOrnek.csproj|solutionrelative:inheritancegirisornek\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kedi.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Kedi.cs",
+              "RelativeDocumentMoniker": "InheritanceGirisOrnek\\Kedi.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Kedi.cs",
+              "RelativeToolTip": "InheritanceGirisOrnek\\Kedi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:32:47.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kopek.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Kopek.cs",
+              "RelativeDocumentMoniker": "InheritanceGirisOrnek\\Kopek.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Kopek.cs",
+              "RelativeToolTip": "InheritanceGirisOrnek\\Kopek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:32:00.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hayvan.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Hayvan.cs",
+              "RelativeDocumentMoniker": "InheritanceGirisOrnek\\Hayvan.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Hayvan.cs",
+              "RelativeToolTip": "InheritanceGirisOrnek\\Hayvan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:30:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceGirisOrnek\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\InheritanceGirisOrnek\\InheritanceGirisOrnek\\Program.cs",
+              "RelativeToolTip": "InheritanceGirisOrnek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:30:05.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

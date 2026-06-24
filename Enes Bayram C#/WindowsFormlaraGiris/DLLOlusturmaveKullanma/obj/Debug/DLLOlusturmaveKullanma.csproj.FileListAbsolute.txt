@@ -1,0 +1,14 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\bin\Debug\DLLOlusturmaveKullanma.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\bin\Debug\DLLOlusturmaveKullanma.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\bin\Debug\DLLOlusturmaveKullanma.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\bin\Debug\Matematik.dll
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\bin\Debug\Matematik.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlust.ECAEE4CF.Up2Date
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\DLLOlusturmaveKullanma\obj\Debug\DLLOlusturmaveKullanma.exe.config

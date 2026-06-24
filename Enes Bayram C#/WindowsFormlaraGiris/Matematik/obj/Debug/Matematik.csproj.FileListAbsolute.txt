@@ -1,0 +1,6 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\Matematik\bin\Debug\Matematik.dll
+D:\Enes Bayram C#\WindowsFormlaraGiris\Matematik\bin\Debug\Matematik.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\Matematik\obj\Debug\Matematik.dll
+D:\Enes Bayram C#\WindowsFormlaraGiris\Matematik\obj\Debug\Matematik.pdb

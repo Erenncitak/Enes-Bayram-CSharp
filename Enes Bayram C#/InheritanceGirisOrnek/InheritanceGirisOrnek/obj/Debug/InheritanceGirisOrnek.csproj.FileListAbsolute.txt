@@ -1,0 +1,7 @@
+D:\Enes Bayram C#\InheritanceGirisOrnek\InheritanceGirisOrnek\bin\Debug\InheritanceGirisOrnek.exe.config
+D:\Enes Bayram C#\InheritanceGirisOrnek\InheritanceGirisOrnek\bin\Debug\InheritanceGirisOrnek.exe
+D:\Enes Bayram C#\InheritanceGirisOrnek\InheritanceGirisOrnek\bin\Debug\InheritanceGirisOrnek.pdb
+D:\Enes Bayram C#\InheritanceGirisOrnek\InheritanceGirisOrnek\obj\Debug\InheritanceGirisOrnek.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\InheritanceGirisOrnek\InheritanceGirisOrnek\obj\Debug\InheritanceGirisOrnek.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\InheritanceGirisOrnek\InheritanceGirisOrnek\obj\Debug\InheritanceGirisOrnek.exe
+D:\Enes Bayram C#\InheritanceGirisOrnek\InheritanceGirisOrnek\obj\Debug\InheritanceGirisOrnek.pdb

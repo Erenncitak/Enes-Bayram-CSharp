@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\bin\Debug\MessageBoxKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\bin\Debug\MessageBoxKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\bin\Debug\MessageBoxKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\MessageBoxKullanimi\obj\Debug\MessageBoxKullanimi.exe.config

@@ -1,0 +1,8 @@
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\bin\Debug\PolymorphismOrnek.exe.config
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\bin\Debug\PolymorphismOrnek.exe
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\bin\Debug\PolymorphismOrnek.pdb
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.exe
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.pdb
+D:\Enes Bayram C#\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.exe.config

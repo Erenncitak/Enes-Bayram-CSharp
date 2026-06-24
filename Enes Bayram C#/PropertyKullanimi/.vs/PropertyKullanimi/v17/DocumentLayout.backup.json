@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\PropertyKullanimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6885897-D771-481D-B73A-6B47BB5C4FF6}|PropertyKullanimi\\PropertyKullanimi.csproj|d:\\enes bayram c#\\propertykullanimi\\propertykullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6885897-D771-481D-B73A-6B47BB5C4FF6}|PropertyKullanimi\\PropertyKullanimi.csproj|solutionrelative:propertykullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6885897-D771-481D-B73A-6B47BB5C4FF6}|PropertyKullanimi\\PropertyKullanimi.csproj|d:\\enes bayram c#\\propertykullanimi\\propertykullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6885897-D771-481D-B73A-6B47BB5C4FF6}|PropertyKullanimi\\PropertyKullanimi.csproj|solutionrelative:propertykullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PropertyKullanimi\\PropertyKullanimi\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyKullanimi\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PropertyKullanimi\\PropertyKullanimi\\Program.cs",
+              "RelativeToolTip": "PropertyKullanimi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:28:25.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\PropertyKullanimi\\PropertyKullanimi\\Musteri.cs",
+              "RelativeDocumentMoniker": "PropertyKullanimi\\Musteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\PropertyKullanimi\\PropertyKullanimi\\Musteri.cs",
+              "RelativeToolTip": "PropertyKullanimi\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:28:51.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\EnumlaraGiris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5477F968-EDD9-4AEC-803C-A841C16C1363}|EnumlaraGiris\\EnumlaraGiris.csproj|d:\\enes bayram c#\\enumlaragiris\\enumlaragiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5477F968-EDD9-4AEC-803C-A841C16C1363}|EnumlaraGiris\\EnumlaraGiris.csproj|solutionrelative:enumlaragiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5477F968-EDD9-4AEC-803C-A841C16C1363}|EnumlaraGiris\\EnumlaraGiris.csproj|d:\\enes bayram c#\\enumlaragiris\\enumlaragiris\\gunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5477F968-EDD9-4AEC-803C-A841C16C1363}|EnumlaraGiris\\EnumlaraGiris.csproj|solutionrelative:enumlaragiris\\gunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gunler.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\EnumlaraGiris\\EnumlaraGiris\\Gunler.cs",
+              "RelativeDocumentMoniker": "EnumlaraGiris\\Gunler.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\EnumlaraGiris\\EnumlaraGiris\\Gunler.cs",
+              "RelativeToolTip": "EnumlaraGiris\\Gunler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:01:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\EnumlaraGiris\\EnumlaraGiris\\Program.cs",
+              "RelativeDocumentMoniker": "EnumlaraGiris\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\EnumlaraGiris\\EnumlaraGiris\\Program.cs",
+              "RelativeToolTip": "EnumlaraGiris\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:57:30.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

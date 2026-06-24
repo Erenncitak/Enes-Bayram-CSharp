@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\EnumlarIleOrnekUygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98333D8C-D0E5-44BC-977C-6FF67B70DEE4}|EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama.csproj|d:\\enes bayram c#\\enumlarileornekuygulama\\enumlarileornekuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98333D8C-D0E5-44BC-977C-6FF67B70DEE4}|EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama.csproj|solutionrelative:enumlarileornekuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98333D8C-D0E5-44BC-977C-6FF67B70DEE4}|EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama.csproj|d:\\enes bayram c#\\enumlarileornekuygulama\\enumlarileornekuygulama\\musteridurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98333D8C-D0E5-44BC-977C-6FF67B70DEE4}|EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama.csproj|solutionrelative:enumlarileornekuygulama\\musteridurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98333D8C-D0E5-44BC-977C-6FF67B70DEE4}|EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama.csproj|d:\\enes bayram c#\\enumlarileornekuygulama\\enumlarileornekuygulama\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98333D8C-D0E5-44BC-977C-6FF67B70DEE4}|EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama.csproj|solutionrelative:enumlarileornekuygulama\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusteriDurum.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama\\MusteriDurum.cs",
+              "RelativeDocumentMoniker": "EnumlarIleOrnekUygulama\\MusteriDurum.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama\\MusteriDurum.cs",
+              "RelativeToolTip": "EnumlarIleOrnekUygulama\\MusteriDurum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:17:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama\\Musteri.cs",
+              "RelativeDocumentMoniker": "EnumlarIleOrnekUygulama\\Musteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama\\Musteri.cs",
+              "RelativeToolTip": "EnumlarIleOrnekUygulama\\Musteri.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:08:38.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama\\Program.cs",
+              "RelativeDocumentMoniker": "EnumlarIleOrnekUygulama\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\EnumlarIleOrnekUygulama\\EnumlarIleOrnekUygulama\\Program.cs",
+              "RelativeToolTip": "EnumlarIleOrnekUygulama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:08:10.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

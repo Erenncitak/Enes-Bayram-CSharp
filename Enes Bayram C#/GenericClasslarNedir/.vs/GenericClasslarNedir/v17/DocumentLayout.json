@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\GenericClasslarNedir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|d:\\enes bayram c#\\genericclasslarnedir\\genericclasslarnedir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|solutionrelative:genericclasslarnedir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|d:\\enes bayram c#\\genericclasslarnedir\\genericclasslarnedir\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|solutionrelative:genericclasslarnedir\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|d:\\enes bayram c#\\genericclasslarnedir\\genericclasslarnedir\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|solutionrelative:genericclasslarnedir\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|d:\\enes bayram c#\\genericclasslarnedir\\genericclasslarnedir\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9597CA4-16CF-48A6-8EC0-F565061AD980}|GenericClasslarNedir\\GenericClasslarNedir.csproj|solutionrelative:genericclasslarnedir\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Program.cs",
+              "RelativeDocumentMoniker": "GenericClasslarNedir\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Program.cs",
+              "RelativeToolTip": "GenericClasslarNedir\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:14:30.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Repository.cs",
+              "RelativeDocumentMoniker": "GenericClasslarNedir\\Repository.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Repository.cs",
+              "RelativeToolTip": "GenericClasslarNedir\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:16:04.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Urun.cs",
+              "RelativeDocumentMoniker": "GenericClasslarNedir\\Urun.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Urun.cs",
+              "RelativeToolTip": "GenericClasslarNedir\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:20:03.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Musteri.cs",
+              "RelativeDocumentMoniker": "GenericClasslarNedir\\Musteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericClasslarNedir\\GenericClasslarNedir\\Musteri.cs",
+              "RelativeToolTip": "GenericClasslarNedir\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:14:52.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Enes Bayram C#\\GenericClassNedirKullanimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{050CB55E-41B7-4D3E-891C-0BD9D89EB322}|GenericClassNedirKullanimi\\GenericClassNedirKullanimi.csproj|d:\\enes bayram c#\\genericclassnedirkullanimi\\genericclassnedirkullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050CB55E-41B7-4D3E-891C-0BD9D89EB322}|GenericClassNedirKullanimi\\GenericClassNedirKullanimi.csproj|solutionrelative:genericclassnedirkullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050CB55E-41B7-4D3E-891C-0BD9D89EB322}|GenericClassNedirKullanimi\\GenericClassNedirKullanimi.csproj|d:\\enes bayram c#\\genericclassnedirkullanimi\\genericclassnedirkullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050CB55E-41B7-4D3E-891C-0BD9D89EB322}|GenericClassNedirKullanimi\\GenericClassNedirKullanimi.csproj|solutionrelative:genericclassnedirkullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericClassNedirKullanimi\\GenericClassNedirKullanimi\\Musteri.cs",
+              "RelativeDocumentMoniker": "GenericClassNedirKullanimi\\Musteri.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericClassNedirKullanimi\\GenericClassNedirKullanimi\\Musteri.cs",
+              "RelativeToolTip": "GenericClassNedirKullanimi\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:09:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enes Bayram C#\\GenericClassNedirKullanimi\\GenericClassNedirKullanimi\\Program.cs",
+              "RelativeDocumentMoniker": "GenericClassNedirKullanimi\\Program.cs",
+              "ToolTip": "D:\\Enes Bayram C#\\GenericClassNedirKullanimi\\GenericClassNedirKullanimi\\Program.cs",
+              "RelativeToolTip": "GenericClassNedirKullanimi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:08:46.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

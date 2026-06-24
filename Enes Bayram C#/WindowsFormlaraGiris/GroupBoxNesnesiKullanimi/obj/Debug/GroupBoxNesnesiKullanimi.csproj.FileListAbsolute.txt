@@ -1,0 +1,11 @@
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.exe.config
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.AssemblyReference.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.Form1.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.Properties.Resources.resources
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.GenerateResource.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.exe
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.pdb
+D:\Enes Bayram C#\WindowsFormlaraGiris\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.exe.config
